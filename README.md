@@ -21,11 +21,11 @@
 * Microsoft Office (Word, Excel, PowerPoint)
   
 # Projects
-* Plant Health Classification Project
+* _Plant Health Classification Project_
 * Built a machine learning model to classify plant health using environmental data
 * Used Python and basic SVM algorithm
 
-* Street Light Energy Saving System
+* _Street Light Energy Saving System_
 * Developed a concept for smart street lighting based on environmental conditions
 * Analyzed data to improve energy efficiency
 
