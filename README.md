@@ -1,4 +1,4 @@
-<img src="http://paingthway.github.io/img/Pt.jpg" alt="RPB Photo" align="right" width="30%"/>
+<img src="http://paingthway.github.io/img/paingthway.png" alt="RPB Photo" align="right" width="30%"/>
 
 # _PAING THWAY_
 > _PAGG_<br />
