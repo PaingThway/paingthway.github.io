@@ -1,4 +1,4 @@
-<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/283d8bc2-542d-4a22-88e7-fdd2a1bcff9e" />
+<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/283d8bc2-542d-4a22-88e7-fdd2a1bcff9e" />
 
 
 # _PAING THWAY_
