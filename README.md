@@ -1,5 +1,4 @@
-<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/283d8bc2-542d-4a22-88e7-fdd2a1bcff9e" />
-
+<img src="http://paingthway.github.io/img/Pt.jpg" alt="RPB Photo" align="right" width="30%"/>
 
 # _PAING THWAY_
 > _PAGG_<br />
