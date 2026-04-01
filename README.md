@@ -1,4 +1,5 @@
-<img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/283d8bc2-542d-4a22-88e7-fdd2a1bcff9e" />
+
 
 # _PAING THWAY_
 > _PAGG_<br />
@@ -44,7 +45,6 @@
 
 # Contact Info
 * [Web Page](https://paingthway.github.io)
-* [LinkedIn](https://www.linkedin.com/in/robert-batzinger)
-* [Twitter](https://twitter.com/rbatz)
-* [Google Scholar](https://scholar.google.com/citations?user=LYSacdYAAAAJ&hl=en)
-* [Research Gate](https://www.researchgate.net/profile/Robert-Batzinger)
+* [LinkedIn](https://www.linkedin.com/in/paing-thway-234a54287?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+* [TikTok](https://www.tiktok.com/@carry_pagg?_r=1&_t=ZS-95AKQORKGsm)
+* [Facebook](https://www.facebook.com/share/18axJaGu2y/?mibextid=wwXIfr)
